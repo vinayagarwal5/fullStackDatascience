@@ -1,0 +1,1007 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d02b92a21b8bc9e3032b0eb973a00bac41848ec78d134b591ca737a77b1683c
+size 57238
+=======
+Age,Salary,Experience,ProjectsCompleted,WorkHours,Education,PerformanceLevel,JobRole,City,Department,Label
+27,123337,15,9,9.7,High School,Low,Manager,Bangalore,HR,0
+26,81732,8,2,7.7,High School,Medium,Engineer,Bangalore,IT,0
+22,129391,5,7,4.2,PhD,High,Engineer,Hyderabad,HR,1
+56,112164,16,16,6.6,PhD,High,Consultant,Chennai,Finance,1
+40,74316,4,29,4.6,Bachelor,High,Manager,Mumbai,HR,1
+45,60750,8,4,6.1,PhD,Low,Analyst,Bangalore,IT,0
+22,77770,18,48,11.8,Bachelor,Low,Engineer,Bangalore,Finance,0
+35,130193,22,8,10.3,Bachelor,Medium,Engineer,Mumbai,Finance,0
+55,87000,12,29,4.0,PhD,Medium,Manager,Bangalore,Finance,0
+36,65893,3,48,5.4,High School,High,Engineer,Hyderabad,HR,0
+24,144948,21,47,6.5,PhD,Low,Analyst,Chennai,IT,0
+31,37311,18,38,9.3,PhD,Low,Consultant,Mumbai,Sales,0
+23,146228,17,4,4.2,PhD,Medium,Analyst,Mumbai,HR,0
+58,67209,13,48,9.3,Bachelor,Low,Manager,Hyderabad,Sales,0
+49,69224,2,16,8.2,High School,High,Analyst,Chennai,Finance,0
+50,138019,21,33,6.3,PhD,Low,Analyst,Mumbai,Sales,0
+54,39848,17,10,12.0,Bachelor,Low,Engineer,Bangalore,HR,0
+44,106822,20,40,4.5,High School,Medium,Consultant,Mumbai,Sales,0
+38,25156,5,3,9.6,PhD,High,Manager,Bangalore,Finance,0
+57,136315,21,36,9.2,Master,Medium,Engineer,Hyderabad,Finance,0
+48,94125,7,15,11.5,High School,Medium,Analyst,Hyderabad,Finance,0
+47,82364,17,20,11.9,Master,Low,Manager,Bangalore,Sales,0
+58,29835,23,13,6.7,Master,Medium,Analyst,Hyderabad,IT,0
+25,149982,0,29,5.8,Master,Low,Analyst,Bangalore,IT,0
+24,126031,13,43,9.5,Bachelor,High,Manager,Bangalore,Finance,1
+33,103585,22,42,9.6,High School,Low,Manager,Bangalore,Finance,0
+24,85579,16,27,9.2,Master,Medium,Consultant,Bangalore,IT,0
+27,92826,22,28,9.8,PhD,Medium,Analyst,Bangalore,Finance,0
+41,130804,17,43,4.6,PhD,High,Consultant,Bangalore,Finance,1
+49,85363,20,34,6.4,Bachelor,Medium,Manager,Hyderabad,Sales,0
+28,78904,1,30,5.3,High School,Medium,Analyst,Bangalore,Finance,0
+40,43040,19,49,7.0,High School,Low,Analyst,Mumbai,Finance,0
+60,86878,9,17,8.7,Master,Medium,Analyst,Bangalore,HR,0
+44,132305,25,23,8.2,Master,High,Manager,Chennai,IT,1
+47,58053,9,7,11.4,Master,Low,Manager,Bangalore,HR,0
+58,115511,15,41,5.3,High School,Low,Engineer,Mumbai,Finance,0
+54,43486,22,44,8.4,Bachelor,High,Analyst,Mumbai,IT,0
+60,115068,13,28,11.5,Bachelor,Low,Analyst,Bangalore,Sales,0
+33,144394,3,34,7.7,High School,Medium,Consultant,Bangalore,HR,0
+54,141683,15,39,9.1,Bachelor,Medium,Consultant,Bangalore,IT,0
+26,34347,22,46,8.8,Master,Low,Analyst,Bangalore,Finance,0
+21,55997,23,23,10.7,PhD,High,Analyst,Hyderabad,IT,0
+44,116905,3,17,4.7,Bachelor,High,Engineer,Chennai,Finance,1
+32,90059,14,20,11.9,PhD,Low,Consultant,Hyderabad,Sales,0
+48,49714,18,29,8.5,Master,Medium,Engineer,Hyderabad,Finance,0
+49,40427,10,38,10.3,High School,Low,Manager,Hyderabad,HR,0
+49,87415,5,23,5.3,PhD,High,Engineer,Mumbai,Finance,1
+44,147867,4,43,4.7,High School,Low,Manager,Chennai,Finance,0
+54,74555,18,16,9.4,PhD,Medium,Engineer,Chennai,Finance,0
+22,53589,13,47,10.2,Master,Low,Engineer,Mumbai,Finance,0
+48,105327,12,1,11.3,Master,Low,Analyst,Chennai,IT,0
+60,84295,16,29,5.4,PhD,Low,Consultant,Bangalore,Finance,0
+57,44534,0,34,4.8,Master,High,Analyst,Hyderabad,Sales,0
+46,105777,0,22,6.2,Master,Medium,Manager,Bangalore,IT,0
+37,26388,11,7,6.7,High School,Medium,Engineer,Hyderabad,Finance,0
+41,75749,9,30,7.5,Master,High,Analyst,Mumbai,Finance,1
+47,114676,17,14,7.9,Master,High,Analyst,Hyderabad,Finance,1
+27,65651,20,29,5.6,PhD,Low,Analyst,Mumbai,HR,0
+26,148996,3,34,7.7,Master,Low,Consultant,Mumbai,HR,0
+28,55719,8,42,5.0,Master,Low,Manager,Mumbai,HR,0
+24,92552,2,37,9.1,Bachelor,Low,Analyst,Mumbai,Finance,0
+41,121596,9,50,4.6,Master,High,Engineer,Bangalore,Sales,1
+23,80862,10,44,5.5,PhD,High,Engineer,Mumbai,Sales,1
+31,28801,15,6,6.9,High School,Medium,Consultant,Mumbai,Sales,0
+20,93289,22,21,12.0,High School,Low,Manager,Chennai,Finance,0
+44,27163,3,43,11.6,Bachelor,Low,Manager,Bangalore,Finance,0
+30,57261,20,6,6.2,PhD,Medium,Engineer,Hyderabad,HR,0
+38,128280,12,42,8.8,Master,Low,Engineer,Hyderabad,Finance,0
+55,55868,22,21,7.3,Bachelor,Low,Analyst,Bangalore,Finance,0
+27,34767,8,10,4.3,Master,High,Manager,Mumbai,Finance,0
+40,127187,22,42,9.7,Master,High,Consultant,Bangalore,Finance,1
+22,90852,12,28,5.0,Master,Low,Analyst,Bangalore,IT,0
+23,109496,5,11,10.2,Bachelor,Medium,Analyst,Hyderabad,HR,0
+24,126050,25,11,5.9,Bachelor,Medium,Engineer,Mumbai,HR,0
+45,42485,24,5,6.1,PhD,Low,Consultant,Bangalore,Sales,0
+44,46205,3,13,6.4,High School,High,Engineer,Mumbai,Sales,0
+38,67101,1,22,6.8,Master,Low,Engineer,Chennai,IT,0
+59,112570,3,14,10.0,High School,Low,Engineer,Hyderabad,Finance,0
+34,112942,6,17,8.1,PhD,Low,Engineer,Chennai,HR,0
+25,120436,12,26,4.1,High School,Low,Consultant,Chennai,Finance,0
+30,32145,16,27,5.0,Bachelor,Low,Analyst,Mumbai,HR,0
+59,142930,15,16,4.5,Bachelor,High,Analyst,Chennai,IT,1
+38,91689,9,15,8.7,Bachelor,Low,Manager,Chennai,IT,0
+57,65649,23,47,5.7,PhD,Low,Engineer,Chennai,HR,0
+44,147781,13,17,5.1,PhD,Medium,Engineer,Chennai,Finance,0
+56,116777,23,2,8.4,High School,High,Manager,Hyderabad,Sales,1
+33,51214,1,38,6.4,PhD,Low,Engineer,Hyderabad,HR,0
+58,132761,13,16,7.5,Master,High,Analyst,Hyderabad,Finance,1
+60,65664,4,35,8.0,Master,Low,Engineer,Bangalore,Sales,0
+35,54587,14,22,6.0,PhD,Low,Consultant,Hyderabad,HR,0
+24,36205,2,20,10.0,Master,Low,Manager,Chennai,Finance,0
+44,68197,3,42,5.9,PhD,High,Consultant,Hyderabad,Sales,0
+20,91711,22,15,9.0,PhD,Low,Consultant,Mumbai,HR,0
+58,56951,18,16,11.6,PhD,Low,Engineer,Bangalore,Finance,0
+25,64904,10,50,4.3,PhD,Low,Analyst,Mumbai,Sales,0
+24,69874,11,43,10.4,Bachelor,Low,Consultant,Chennai,Finance,0
+41,131156,7,27,9.8,High School,High,Analyst,Mumbai,IT,1
+48,27932,2,23,11.4,Bachelor,Medium,Engineer,Bangalore,Finance,0
+34,74691,11,2,7.7,Bachelor,Low,Engineer,Bangalore,HR,0
+59,99629,17,26,11.1,Bachelor,Low,Engineer,Chennai,IT,0
+28,65739,20,16,11.2,Master,Medium,Engineer,Hyderabad,Finance,0
+20,69224,2,8,11.5,Master,Low,Consultant,Hyderabad,IT,0
+52,125601,25,50,10.4,Master,Low,Manager,Hyderabad,Sales,0
+56,82798,0,5,8.7,Master,Low,Consultant,Bangalore,Sales,0
+43,46251,17,2,9.3,Bachelor,Medium,Engineer,Mumbai,Finance,0
+44,60473,4,39,10.2,Master,High,Analyst,Mumbai,Finance,0
+22,38409,23,19,7.0,Master,High,Engineer,Chennai,Sales,0
+34,97113,11,46,5.5,PhD,High,Analyst,Mumbai,Finance,1
+47,103608,4,45,6.1,PhD,Low,Consultant,Bangalore,Finance,0
+42,48411,10,1,8.7,PhD,Low,Analyst,Chennai,HR,0
+55,45430,3,19,8.4,Bachelor,High,Manager,Mumbai,HR,0
+60,94043,18,9,5.1,Master,Low,Manager,Hyderabad,Finance,0
+54,125300,1,25,10.0,Master,Medium,Manager,Chennai,HR,0
+57,27165,7,50,9.9,Master,High,Engineer,Mumbai,Sales,0
+46,128779,18,10,7.5,Bachelor,High,Analyst,Bangalore,Finance,1
+32,94060,5,35,8.3,Bachelor,Low,Consultant,Chennai,IT,0
+34,57068,22,38,5.7,Master,Medium,Analyst,Hyderabad,Sales,0
+43,55516,20,41,6.3,PhD,Medium,Engineer,Mumbai,IT,0
+49,134404,17,22,11.3,High School,High,Consultant,Chennai,IT,1
+52,26887,1,5,5.7,Master,High,Analyst,Mumbai,Finance,0
+52,145412,25,16,9.7,High School,Medium,Consultant,Hyderabad,Sales,0
+39,106395,10,45,10.8,PhD,High,Engineer,Bangalore,HR,1
+51,104101,23,4,5.6,High School,Medium,Engineer,Mumbai,HR,0
+42,103427,13,40,4.9,High School,High,Engineer,Mumbai,Sales,1
+20,96401,21,40,10.2,Master,Low,Manager,Chennai,IT,0
+57,136810,12,7,8.5,PhD,High,Engineer,Mumbai,Finance,1
+57,39807,3,16,10.7,PhD,Medium,Manager,Mumbai,Sales,0
+51,141412,6,41,7.7,High School,Medium,Consultant,Chennai,Sales,0
+28,31028,17,43,6.4,Bachelor,Low,Manager,Chennai,Finance,0
+44,119522,4,20,6.9,Master,High,Consultant,Mumbai,Finance,1
+59,107782,22,31,9.9,Bachelor,Low,Analyst,Mumbai,HR,0
+53,132982,11,28,5.3,High School,High,Engineer,Hyderabad,Sales,1
+40,149102,19,2,5.0,PhD,High,Manager,Chennai,Sales,1
+23,40922,12,41,4.2,Bachelor,Medium,Analyst,Chennai,IT,0
+48,38621,3,11,7.8,PhD,High,Engineer,Mumbai,Sales,0
+49,132449,7,42,4.0,High School,High,Manager,Mumbai,Sales,1
+33,103331,2,1,6.7,Master,Low,Consultant,Mumbai,IT,0
+49,47359,2,24,9.0,High School,Low,Consultant,Mumbai,IT,0
+39,37826,17,41,7.7,High School,Low,Engineer,Mumbai,Sales,0
+44,30603,21,30,4.1,High School,Low,Engineer,Chennai,Finance,0
+22,101972,5,14,9.6,High School,High,Consultant,Hyderabad,Finance,1
+20,73075,13,18,11.6,PhD,Medium,Engineer,Chennai,IT,0
+35,58709,15,46,10.2,High School,Medium,Engineer,Mumbai,Finance,0
+40,88329,16,46,5.4,Bachelor,High,Analyst,Chennai,HR,1
+37,137134,21,4,7.9,PhD,High,Analyst,Hyderabad,Finance,1
+47,60126,2,28,7.2,Bachelor,Low,Analyst,Bangalore,Finance,0
+37,47027,5,40,4.5,Master,Medium,Analyst,Chennai,IT,0
+27,63286,9,37,8.6,Bachelor,Medium,Engineer,Hyderabad,HR,0
+25,57231,1,12,4.2,High School,High,Consultant,Chennai,HR,0
+23,79297,22,10,4.3,High School,Low,Consultant,Bangalore,IT,0
+46,122046,10,28,4.9,Bachelor,High,Manager,Chennai,Sales,1
+39,125147,23,13,8.4,High School,Low,Manager,Bangalore,IT,0
+23,44722,23,6,5.8,Bachelor,Low,Manager,Chennai,Finance,0
+55,91290,25,13,10.0,High School,High,Manager,Chennai,Sales,1
+23,42944,1,13,8.7,Bachelor,Medium,Analyst,Hyderabad,Sales,0
+41,62730,0,30,6.1,Bachelor,Medium,Engineer,Mumbai,IT,0
+30,58514,11,35,5.2,Master,Low,Manager,Chennai,Finance,0
+37,70226,18,49,10.3,Bachelor,Medium,Engineer,Hyderabad,HR,0
+56,118373,9,7,11.5,PhD,Low,Manager,Mumbai,HR,0
+28,142065,15,14,10.0,Master,Low,Manager,Mumbai,HR,0
+35,46908,24,40,6.5,Master,High,Manager,Mumbai,Finance,0
+57,26446,19,22,4.4,PhD,High,Consultant,Chennai,Finance,0
+52,68935,5,50,7.6,High School,Low,Manager,Mumbai,Finance,0
+29,113326,4,39,5.0,High School,Low,Manager,Mumbai,IT,0
+30,105129,16,29,11.4,Bachelor,Medium,Engineer,Bangalore,Sales,0
+31,78414,1,42,5.5,High School,High,Consultant,Hyderabad,Sales,1
+23,42064,10,36,9.9,Master,Low,Engineer,Chennai,IT,0
+28,61942,5,43,11.1,High School,High,Analyst,Bangalore,IT,0
+60,35830,11,1,9.7,Bachelor,Low,Manager,Mumbai,IT,0
+40,99108,10,24,5.1,PhD,Low,Engineer,Hyderabad,Finance,0
+41,104183,2,15,8.9,High School,Medium,Engineer,Chennai,IT,0
+39,39756,11,48,10.3,Master,Medium,Engineer,Chennai,IT,0
+57,37597,24,46,4.0,Bachelor,Medium,Engineer,Mumbai,HR,0
+20,92198,14,44,6.6,PhD,Medium,Consultant,Hyderabad,IT,0
+27,34983,7,32,4.6,Bachelor,High,Engineer,Hyderabad,HR,0
+50,36934,25,40,7.3,PhD,Low,Engineer,Chennai,HR,0
+42,121495,16,13,4.7,Bachelor,High,Manager,Bangalore,Finance,1
+57,136500,24,27,5.1,Master,Medium,Engineer,Hyderabad,IT,0
+55,81485,10,29,7.4,High School,Medium,Engineer,Mumbai,Sales,0
+44,129102,16,44,8.2,High School,Medium,Analyst,Bangalore,Sales,0
+41,123781,7,19,4.2,PhD,Medium,Consultant,Hyderabad,Finance,0
+52,28377,2,12,7.7,PhD,Medium,Analyst,Mumbai,IT,0
+41,37090,11,24,8.7,High School,High,Manager,Bangalore,HR,0
+24,140405,25,8,12.0,High School,High,Consultant,Bangalore,Finance,1
+55,46798,2,42,5.9,Bachelor,Low,Consultant,Mumbai,IT,0
+21,28651,25,34,5.3,Bachelor,High,Analyst,Chennai,Sales,0
+48,49139,17,49,5.8,PhD,High,Engineer,Mumbai,IT,0
+58,143015,15,25,11.3,High School,Medium,Consultant,Chennai,Finance,0
+49,135094,16,22,11.0,Bachelor,High,Engineer,Bangalore,Finance,1
+44,147144,23,41,10.2,Bachelor,Low,Analyst,Hyderabad,IT,0
+47,29721,6,50,8.9,High School,High,Analyst,Chennai,Finance,0
+54,85547,7,6,9.1,PhD,High,Consultant,Bangalore,Finance,1
+27,49695,11,22,5.4,Master,Low,Analyst,Hyderabad,Sales,0
+52,77120,11,3,6.2,PhD,Low,Manager,Hyderabad,HR,0
+30,85806,22,25,9.4,PhD,High,Analyst,Mumbai,HR,1
+53,96870,11,41,11.5,PhD,Low,Consultant,Chennai,HR,0
+51,42086,5,7,4.1,PhD,Medium,Engineer,Chennai,Sales,0
+26,106967,9,16,9.6,Bachelor,High,Manager,Mumbai,Sales,1
+50,136127,24,18,6.0,Bachelor,High,Engineer,Chennai,Finance,1
+32,97535,22,3,9.6,Master,Low,Analyst,Chennai,Sales,0
+49,75370,4,29,8.3,Master,High,Engineer,Bangalore,IT,1
+26,127206,13,35,6.1,Bachelor,Medium,Engineer,Mumbai,HR,0
+24,27222,15,1,8.8,PhD,Medium,Manager,Chennai,Sales,0
+36,79903,10,22,11.4,High School,High,Analyst,Hyderabad,Sales,1
+45,25515,8,33,5.5,PhD,High,Analyst,Mumbai,HR,0
+33,139960,1,1,7.7,Bachelor,Medium,Manager,Chennai,IT,0
+25,25714,12,46,7.6,Master,High,Manager,Bangalore,Sales,0
+38,51304,18,34,4.4,Master,High,Analyst,Hyderabad,Sales,0
+50,122512,13,1,4.7,PhD,High,Analyst,Hyderabad,Sales,1
+50,63478,21,33,6.4,Master,High,Consultant,Chennai,IT,0
+50,114015,3,45,6.6,PhD,High,Manager,Mumbai,IT,1
+22,96507,8,23,10.8,High School,Medium,Analyst,Hyderabad,IT,0
+32,68827,14,30,9.2,Bachelor,High,Consultant,Chennai,Sales,0
+54,114042,15,7,6.4,PhD,Medium,Manager,Chennai,HR,0
+34,144121,10,2,11.6,High School,High,Manager,Hyderabad,IT,1
+36,89029,15,23,4.7,Bachelor,Low,Manager,Chennai,IT,0
+21,105421,15,37,5.0,High School,Medium,Manager,Hyderabad,HR,0
+58,51802,7,34,4.5,Bachelor,High,Consultant,Chennai,Finance,0
+45,52447,23,18,11.3,Master,Medium,Engineer,Bangalore,HR,0
+35,80274,1,15,8.5,Master,Medium,Consultant,Mumbai,IT,0
+46,76855,20,26,6.7,Bachelor,Low,Analyst,Hyderabad,IT,0
+28,111471,19,15,5.3,Master,Low,Consultant,Mumbai,IT,0
+41,90245,7,1,11.5,Master,Medium,Manager,Bangalore,HR,0
+54,62964,0,47,7.8,Bachelor,Low,Consultant,Chennai,HR,0
+40,50022,0,33,9.3,PhD,Medium,Engineer,Bangalore,Sales,0
+32,97796,15,19,11.8,Master,Low,Engineer,Mumbai,HR,0
+34,31265,7,39,4.3,PhD,High,Consultant,Bangalore,Finance,0
+28,145008,8,28,8.5,Bachelor,High,Manager,Hyderabad,IT,1
+42,70096,5,34,11.1,Bachelor,Low,Engineer,Mumbai,IT,0
+32,139295,8,22,8.5,Bachelor,High,Engineer,Bangalore,HR,1
+38,100508,7,43,11.8,PhD,High,Engineer,Mumbai,Finance,1
+44,123573,18,31,9.6,High School,Medium,Consultant,Mumbai,IT,0
+39,43455,5,45,6.8,Master,Medium,Manager,Hyderabad,IT,0
+30,116873,14,3,4.0,Bachelor,Medium,Consultant,Hyderabad,Sales,0
+50,126657,20,17,9.6,Master,High,Manager,Bangalore,HR,1
+56,83601,2,19,8.2,High School,Medium,Analyst,Mumbai,Sales,0
+53,28900,3,18,7.1,PhD,High,Engineer,Mumbai,HR,0
+50,79692,8,3,8.7,Master,Medium,Manager,Mumbai,Finance,0
+26,75003,5,15,5.8,Master,Medium,Analyst,Bangalore,HR,0
+31,99206,7,3,8.1,Master,High,Engineer,Mumbai,Sales,1
+53,112925,12,21,10.5,Bachelor,Medium,Consultant,Hyderabad,Finance,0
+35,43758,15,41,7.6,PhD,High,Engineer,Mumbai,Finance,0
+46,108966,6,3,6.0,Bachelor,Medium,Consultant,Hyderabad,Finance,0
+21,74045,14,14,6.4,Master,Low,Consultant,Bangalore,IT,0
+53,98053,2,41,10.1,Bachelor,High,Engineer,Hyderabad,Finance,1
+38,83738,7,25,11.1,Bachelor,High,Engineer,Mumbai,IT,1
+33,40040,21,16,7.4,PhD,Medium,Analyst,Hyderabad,HR,0
+41,44147,1,24,10.0,PhD,Medium,Engineer,Hyderabad,Sales,0
+29,130309,22,25,10.4,PhD,Low,Consultant,Hyderabad,HR,0
+47,87085,3,43,12.0,PhD,Low,Engineer,Chennai,IT,0
+55,73363,5,1,10.9,PhD,Low,Manager,Bangalore,IT,0
+56,103742,17,25,7.0,Bachelor,Low,Manager,Hyderabad,Sales,0
+41,52077,5,27,10.8,Master,Low,Manager,Bangalore,HR,0
+34,51846,11,20,6.5,Master,Medium,Consultant,Mumbai,IT,0
+28,103012,1,45,5.2,PhD,Low,Analyst,Mumbai,IT,0
+28,46163,5,42,7.4,PhD,Medium,Analyst,Chennai,Sales,0
+31,109279,14,43,9.0,High School,Medium,Consultant,Chennai,Sales,0
+47,39559,3,23,10.6,PhD,High,Engineer,Bangalore,Sales,0
+42,111647,22,5,4.3,High School,Medium,Analyst,Chennai,IT,0
+36,146198,22,11,10.6,Master,Low,Analyst,Hyderabad,IT,0
+36,121231,1,4,10.6,PhD,Low,Engineer,Mumbai,IT,0
+48,35648,24,5,7.0,High School,Low,Consultant,Bangalore,IT,0
+60,56627,12,27,8.9,Master,Low,Consultant,Mumbai,Finance,0
+50,48751,2,6,10.0,PhD,Medium,Manager,Mumbai,HR,0
+49,127672,12,35,4.4,High School,Low,Consultant,Chennai,Finance,0
+56,114126,22,5,9.0,PhD,Medium,Analyst,Bangalore,IT,0
+22,144788,3,50,11.9,PhD,High,Engineer,Hyderabad,IT,1
+26,31465,25,28,6.8,Bachelor,High,Manager,Mumbai,IT,0
+29,105286,6,40,6.9,PhD,Medium,Engineer,Hyderabad,IT,0
+54,130351,12,12,9.2,Master,High,Manager,Bangalore,HR,1
+20,34441,4,49,8.0,Master,Medium,Engineer,Bangalore,HR,0
+20,88138,25,27,5.9,Bachelor,Medium,Engineer,Chennai,HR,0
+31,45132,13,13,9.6,Bachelor,High,Manager,Hyderabad,Sales,0
+32,86028,1,20,6.0,PhD,Medium,Manager,Hyderabad,Finance,0
+57,145869,9,46,7.8,Bachelor,Medium,Consultant,Mumbai,Finance,0
+59,121476,6,30,11.8,Bachelor,High,Engineer,Hyderabad,IT,1
+51,136841,24,22,4.9,Master,High,Engineer,Hyderabad,IT,1
+45,53804,15,22,7.2,PhD,High,Consultant,Chennai,Sales,0
+25,91836,25,1,6.5,PhD,Medium,Consultant,Bangalore,HR,0
+33,55770,19,4,8.4,High School,Low,Consultant,Chennai,Finance,0
+26,68999,15,9,10.3,Master,Low,Engineer,Bangalore,HR,0
+37,34883,19,29,11.3,Bachelor,Low,Analyst,Hyderabad,HR,0
+32,45348,24,43,5.0,Master,High,Manager,Hyderabad,Finance,0
+50,34954,8,28,4.6,High School,Low,Manager,Mumbai,IT,0
+50,69775,25,38,12.0,Bachelor,Low,Analyst,Hyderabad,Sales,0
+60,108606,1,17,7.0,PhD,High,Consultant,Chennai,HR,1
+23,110045,1,9,7.4,Master,Medium,Consultant,Hyderabad,Finance,0
+52,106997,3,37,4.1,Master,High,Analyst,Mumbai,Finance,1
+35,78444,19,18,4.2,Master,High,Consultant,Hyderabad,HR,1
+49,35712,6,40,8.7,Bachelor,Low,Analyst,Chennai,Finance,0
+22,54425,25,40,4.8,High School,High,Consultant,Mumbai,IT,0
+57,71831,5,7,4.7,Master,Low,Consultant,Hyderabad,HR,0
+28,94833,16,16,6.1,PhD,High,Analyst,Bangalore,HR,1
+58,31846,14,8,4.8,Master,High,Engineer,Bangalore,HR,0
+36,97324,17,48,10.8,Bachelor,Medium,Engineer,Chennai,HR,0
+26,140024,5,41,5.6,Master,High,Consultant,Hyderabad,HR,1
+53,94970,12,31,7.5,High School,High,Engineer,Bangalore,IT,1
+34,53080,8,33,5.2,Master,Medium,Manager,Hyderabad,IT,0
+35,148034,22,6,7.9,PhD,High,Manager,Bangalore,Sales,1
+59,34423,11,40,4.3,Bachelor,Medium,Engineer,Bangalore,Finance,0
+57,57085,6,34,9.5,PhD,Medium,Engineer,Hyderabad,Finance,0
+39,88119,21,11,9.1,PhD,High,Engineer,Mumbai,IT,1
+47,115930,4,7,11.0,Bachelor,Medium,Consultant,Hyderabad,IT,0
+49,135141,2,3,5.9,PhD,High,Consultant,Chennai,IT,1
+44,32335,20,36,10.5,Bachelor,Medium,Manager,Chennai,IT,0
+43,56652,13,39,10.3,PhD,High,Engineer,Chennai,Sales,0
+23,101858,5,26,9.3,Bachelor,High,Manager,Mumbai,HR,1
+46,86413,2,11,11.9,Master,High,Manager,Chennai,HR,1
+49,26489,13,47,7.6,High School,High,Analyst,Hyderabad,Finance,0
+36,54772,22,35,7.3,High School,Low,Manager,Bangalore,IT,0
+54,76384,9,18,10.3,PhD,High,Analyst,Bangalore,Finance,1
+43,38315,25,12,6.4,High School,High,Consultant,Bangalore,IT,0
+30,106114,6,45,11.1,Master,Low,Manager,Hyderabad,Finance,0
+23,96929,23,24,9.8,Bachelor,Medium,Consultant,Hyderabad,IT,0
+44,68633,17,45,4.8,PhD,Low,Consultant,Chennai,Finance,0
+56,30779,8,29,11.8,High School,High,Consultant,Mumbai,Finance,0
+53,32473,6,5,6.4,High School,High,Analyst,Hyderabad,Finance,0
+39,108331,4,11,11.8,Master,Low,Engineer,Hyderabad,HR,0
+23,39859,1,39,11.4,High School,Medium,Analyst,Mumbai,Sales,0
+33,121205,13,10,7.3,High School,Low,Consultant,Mumbai,HR,0
+22,120197,20,50,7.8,High School,High,Engineer,Bangalore,Sales,1
+29,51267,20,12,6.9,Master,Low,Manager,Chennai,IT,0
+56,111881,2,4,10.9,High School,Low,Consultant,Mumbai,Sales,0
+38,68295,0,43,10.1,Bachelor,Medium,Analyst,Bangalore,Sales,0
+27,99082,8,28,7.2,PhD,High,Manager,Chennai,HR,1
+24,118788,3,50,10.0,Bachelor,Medium,Manager,Chennai,Finance,0
+23,47379,17,21,10.1,High School,High,Manager,Hyderabad,IT,0
+48,136357,7,31,10.6,Bachelor,Medium,Manager,Chennai,IT,0
+59,148448,4,8,8.5,Master,Low,Manager,Bangalore,Finance,0
+47,74246,3,35,6.1,High School,Low,Consultant,Hyderabad,Finance,0
+50,99532,16,15,9.8,PhD,Medium,Manager,Hyderabad,HR,0
+52,137474,5,5,11.7,High School,High,Analyst,Mumbai,Finance,1
+35,53225,13,38,6.3,High School,Low,Consultant,Bangalore,HR,0
+35,81964,9,41,5.7,PhD,Medium,Engineer,Bangalore,HR,0
+52,108530,17,3,10.9,PhD,Medium,Consultant,Chennai,Finance,0
+32,125996,7,19,4.1,Bachelor,Medium,Consultant,Bangalore,Sales,0
+31,48881,8,41,4.3,Master,Low,Engineer,Hyderabad,Finance,0
+32,25890,2,30,11.4,PhD,Low,Analyst,Chennai,IT,0
+57,117875,12,41,5.6,Master,High,Analyst,Chennai,Finance,1
+53,65526,7,38,7.3,High School,High,Analyst,Chennai,HR,0
+32,119953,15,42,10.9,PhD,Low,Consultant,Hyderabad,IT,0
+36,116082,1,5,11.3,Bachelor,Medium,Engineer,Chennai,Sales,0
+26,99028,13,14,4.1,Master,Low,Engineer,Bangalore,HR,0
+44,59869,0,2,8.5,Master,Low,Engineer,Chennai,IT,0
+29,100964,14,47,11.2,Master,High,Analyst,Bangalore,HR,1
+44,73274,5,10,4.3,Bachelor,Medium,Engineer,Mumbai,HR,0
+37,69468,20,1,4.9,Master,High,Consultant,Chennai,Sales,0
+20,146621,13,8,10.4,Bachelor,Medium,Analyst,Hyderabad,Finance,0
+54,58237,9,43,4.1,Bachelor,High,Analyst,Mumbai,Finance,0
+43,99671,25,31,4.0,PhD,High,Engineer,Hyderabad,HR,1
+45,116048,14,11,4.3,PhD,Medium,Consultant,Bangalore,Finance,0
+48,101788,19,20,5.1,High School,High,Engineer,Hyderabad,Sales,1
+28,125551,8,10,6.7,High School,High,Engineer,Bangalore,IT,1
+22,110191,4,4,11.6,PhD,Low,Manager,Hyderabad,Finance,0
+25,81971,22,11,9.9,Master,High,Consultant,Bangalore,Sales,1
+33,132451,24,1,8.9,PhD,Medium,Consultant,Mumbai,Finance,0
+52,51789,20,40,8.3,Master,Low,Manager,Mumbai,Sales,0
+41,47692,10,45,7.6,Bachelor,High,Manager,Bangalore,IT,0
+25,114490,21,6,4.4,PhD,Medium,Manager,Bangalore,IT,0
+46,116642,10,21,10.3,High School,Low,Engineer,Chennai,Finance,0
+51,27687,9,38,5.8,Master,Low,Consultant,Mumbai,Finance,0
+52,95047,15,44,5.9,Bachelor,High,Engineer,Chennai,HR,1
+47,108187,7,23,5.9,Bachelor,Medium,Analyst,Bangalore,Finance,0
+39,39967,3,33,4.2,Bachelor,High,Consultant,Hyderabad,HR,0
+20,121412,25,14,9.3,Master,Medium,Engineer,Mumbai,Sales,0
+23,120939,0,2,6.5,Master,Medium,Manager,Bangalore,Sales,0
+40,128200,0,36,7.7,Bachelor,Medium,Manager,Mumbai,Sales,0
+44,85916,24,17,9.7,PhD,Low,Manager,Mumbai,Finance,0
+26,65548,6,36,7.5,PhD,Medium,Manager,Chennai,HR,0
+52,81963,5,50,8.0,PhD,Medium,Analyst,Chennai,Sales,0
+37,85115,5,44,7.1,Master,Low,Analyst,Bangalore,HR,0
+42,32838,6,40,9.0,High School,Low,Engineer,Hyderabad,Finance,0
+53,101054,10,46,6.4,Bachelor,High,Engineer,Bangalore,IT,1
+50,115354,8,8,6.6,Bachelor,High,Consultant,Mumbai,HR,1
+32,84890,6,9,6.5,Bachelor,Medium,Engineer,Mumbai,HR,0
+34,128472,20,45,8.7,Master,High,Engineer,Bangalore,Sales,1
+35,80576,17,31,10.7,High School,High,Engineer,Bangalore,Finance,1
+46,149080,12,3,11.5,Bachelor,Medium,Consultant,Hyderabad,Sales,0
+37,106182,8,42,10.8,High School,High,Engineer,Bangalore,IT,1
+24,83058,17,5,8.8,Bachelor,High,Manager,Hyderabad,HR,1
+56,42105,17,18,5.3,Bachelor,Low,Analyst,Mumbai,IT,0
+53,63657,12,44,8.7,PhD,Medium,Analyst,Hyderabad,Finance,0
+41,57065,2,36,10.6,PhD,High,Manager,Bangalore,HR,0
+57,139758,4,29,9.7,High School,Low,Consultant,Bangalore,HR,0
+35,88142,3,22,7.9,PhD,High,Analyst,Chennai,Sales,1
+24,41286,0,15,7.0,PhD,Medium,Manager,Hyderabad,Sales,0
+50,89343,12,25,4.3,High School,High,Consultant,Hyderabad,Finance,1
+60,118489,24,27,10.1,High School,Low,Manager,Mumbai,Sales,0
+26,83776,24,40,5.2,High School,High,Consultant,Chennai,IT,1
+59,105399,10,43,11.7,Bachelor,Medium,Manager,Bangalore,Finance,0
+25,144309,3,13,10.0,High School,Low,Analyst,Hyderabad,HR,0
+41,148945,3,28,7.5,PhD,High,Analyst,Chennai,Sales,1
+22,91546,17,10,6.1,High School,Medium,Engineer,Chennai,Sales,0
+33,33059,25,18,7.6,High School,High,Engineer,Chennai,HR,0
+51,91259,17,28,11.7,Bachelor,High,Consultant,Mumbai,HR,1
+27,55632,0,35,9.3,Bachelor,Low,Analyst,Hyderabad,IT,0
+34,70396,9,38,9.2,PhD,Medium,Consultant,Chennai,HR,0
+49,108091,12,30,9.4,High School,Low,Manager,Bangalore,Sales,0
+44,73133,0,50,8.7,Master,Low,Manager,Chennai,HR,0
+26,123863,7,1,7.0,PhD,High,Analyst,Mumbai,Sales,1
+29,75241,4,12,8.9,High School,Medium,Engineer,Hyderabad,HR,0
+47,123849,21,35,8.9,PhD,High,Analyst,Chennai,Finance,1
+50,118432,15,49,8.6,High School,Medium,Engineer,Hyderabad,HR,0
+59,52427,8,37,6.9,Master,Medium,Analyst,Mumbai,Finance,0
+57,131627,9,38,7.2,High School,Medium,Manager,Hyderabad,Finance,0
+58,69793,9,8,11.5,High School,High,Engineer,Mumbai,IT,0
+48,100459,19,16,6.9,PhD,Low,Analyst,Mumbai,Sales,0
+30,52108,12,24,10.7,High School,Medium,Engineer,Hyderabad,IT,0
+26,46946,5,38,7.0,High School,Low,Consultant,Bangalore,Sales,0
+50,50355,2,46,4.1,Bachelor,Medium,Analyst,Bangalore,Sales,0
+57,122570,15,24,5.5,PhD,Low,Consultant,Hyderabad,IT,0
+55,97773,8,50,4.0,Bachelor,Low,Engineer,Chennai,Finance,0
+27,94208,22,34,11.9,High School,High,Manager,Hyderabad,HR,1
+24,141181,12,8,4.0,PhD,Medium,Analyst,Mumbai,Sales,0
+57,52790,12,40,11.1,Bachelor,Medium,Analyst,Bangalore,Sales,0
+48,32291,12,6,7.0,Master,High,Analyst,Mumbai,Finance,0
+22,62342,21,9,8.4,High School,High,Manager,Hyderabad,IT,0
+43,124524,24,7,11.3,Bachelor,Medium,Engineer,Bangalore,IT,0
+48,35224,23,47,6.3,Bachelor,Medium,Consultant,Mumbai,IT,0
+34,118494,6,13,11.4,Bachelor,Medium,Analyst,Hyderabad,HR,0
+55,37034,3,14,4.5,Bachelor,High,Analyst,Mumbai,HR,0
+58,108441,6,22,4.0,Master,High,Analyst,Chennai,Finance,1
+34,50020,5,5,9.5,PhD,High,Engineer,Bangalore,Finance,0
+54,45867,0,4,7.8,Master,Medium,Manager,Chennai,HR,0
+53,96626,24,11,10.1,Master,High,Engineer,Mumbai,Sales,1
+54,126815,17,17,10.4,PhD,High,Manager,Chennai,Finance,1
+49,96798,11,45,4.8,Master,High,Consultant,Mumbai,Sales,1
+58,111438,4,2,7.8,Bachelor,Medium,Analyst,Bangalore,Finance,0
+58,85792,6,36,6.6,Master,Medium,Analyst,Bangalore,Finance,0
+44,97340,14,4,5.1,Master,High,Manager,Bangalore,HR,1
+37,52730,5,9,5.8,Master,High,Consultant,Hyderabad,HR,0
+34,95481,13,19,9.4,Master,High,Analyst,Chennai,Sales,1
+54,137388,14,13,6.7,Master,High,Engineer,Chennai,IT,1
+26,126123,12,42,5.7,Master,Medium,Engineer,Mumbai,Finance,0
+25,114749,17,46,12.0,Bachelor,High,Manager,Mumbai,HR,1
+38,40979,20,35,4.2,Master,High,Engineer,Mumbai,Finance,0
+42,51548,17,46,7.4,Master,Low,Manager,Hyderabad,HR,0
+25,91109,22,30,9.9,Bachelor,Low,Manager,Bangalore,HR,0
+49,39807,16,28,4.4,Master,Low,Engineer,Hyderabad,Sales,0
+47,37586,11,21,10.6,Master,Low,Consultant,Chennai,IT,0
+30,135625,24,30,8.6,High School,High,Manager,Chennai,HR,1
+46,116438,7,10,11.6,PhD,High,Engineer,Mumbai,Sales,1
+54,135384,18,14,6.0,PhD,Medium,Manager,Mumbai,Sales,0
+54,108954,0,9,7.1,Master,Medium,Consultant,Bangalore,Sales,0
+57,96770,4,28,9.7,Bachelor,Low,Consultant,Hyderabad,IT,0
+40,112767,12,21,8.8,PhD,Medium,Engineer,Chennai,Sales,0
+47,80376,22,24,10.7,High School,High,Engineer,Bangalore,Finance,1
+34,41084,24,24,8.3,Master,High,Consultant,Mumbai,Sales,0
+60,36593,22,37,9.4,Bachelor,High,Consultant,Chennai,Finance,0
+22,54949,17,41,6.5,High School,High,Manager,Bangalore,Sales,0
+36,79284,18,16,10.4,Master,Medium,Engineer,Mumbai,Sales,0
+43,113851,8,42,6.9,Bachelor,Low,Engineer,Bangalore,IT,0
+27,94131,21,48,9.1,Bachelor,Low,Consultant,Mumbai,HR,0
+21,28430,21,41,7.2,Bachelor,High,Analyst,Hyderabad,Finance,0
+51,28308,13,8,5.1,PhD,Medium,Engineer,Hyderabad,Finance,0
+38,146571,3,45,9.8,High School,Low,Analyst,Mumbai,Sales,0
+45,35686,24,9,7.0,Bachelor,Medium,Analyst,Chennai,HR,0
+49,54016,9,22,11.9,PhD,High,Manager,Hyderabad,Sales,0
+25,111904,15,30,8.9,Bachelor,Low,Analyst,Hyderabad,Finance,0
+20,74526,13,1,5.4,Master,Low,Manager,Bangalore,HR,0
+37,70879,22,16,9.5,Master,Low,Analyst,Bangalore,IT,0
+20,50280,22,26,7.7,Master,Medium,Analyst,Mumbai,Finance,0
+29,92945,9,50,4.1,Master,High,Manager,Chennai,Finance,1
+21,146591,7,16,5.8,Bachelor,Medium,Consultant,Bangalore,HR,0
+31,106263,22,40,8.5,High School,High,Engineer,Chennai,HR,1
+54,88948,0,8,4.3,PhD,Medium,Analyst,Chennai,Finance,0
+24,84972,21,2,6.8,PhD,High,Manager,Hyderabad,HR,1
+37,112882,24,49,6.1,Bachelor,High,Consultant,Hyderabad,IT,1
+49,30663,1,18,6.6,Bachelor,High,Engineer,Mumbai,Finance,0
+32,136614,19,13,4.8,Master,Medium,Consultant,Chennai,Sales,0
+57,123906,13,33,10.7,Master,Medium,Manager,Chennai,Finance,0
+59,77203,19,33,7.9,Bachelor,Medium,Engineer,Hyderabad,Sales,0
+38,149960,18,38,5.6,High School,High,Analyst,Chennai,Finance,1
+55,30478,13,22,8.8,PhD,Medium,Consultant,Chennai,Finance,0
+44,142587,1,33,4.7,PhD,High,Manager,Chennai,IT,1
+45,27062,21,13,8.8,Master,High,Consultant,Hyderabad,Sales,0
+26,93373,10,50,5.2,PhD,Low,Analyst,Hyderabad,Finance,0
+31,50588,2,1,9.8,PhD,High,Analyst,Hyderabad,HR,0
+35,34617,9,6,7.3,Bachelor,Low,Consultant,Hyderabad,IT,0
+46,68883,23,47,11.1,High School,Low,Consultant,Bangalore,Finance,0
+55,33558,24,15,5.5,Bachelor,High,Manager,Mumbai,Finance,0
+50,112224,20,39,9.8,Bachelor,Low,Engineer,Mumbai,IT,0
+42,98254,16,40,6.5,Master,High,Consultant,Bangalore,Sales,1
+54,52246,13,28,8.8,Bachelor,High,Manager,Chennai,IT,0
+52,53420,9,21,4.1,Bachelor,High,Analyst,Chennai,HR,0
+46,33302,5,45,8.5,High School,High,Consultant,Mumbai,Finance,0
+48,109807,25,32,10.4,PhD,Medium,Analyst,Hyderabad,Sales,0
+39,74591,25,2,8.9,Master,Low,Engineer,Mumbai,IT,0
+21,76923,24,32,5.7,Master,Medium,Consultant,Bangalore,HR,0
+50,139823,18,37,5.0,High School,High,Analyst,Mumbai,IT,1
+56,127605,22,19,7.6,Bachelor,High,Engineer,Hyderabad,Finance,1
+27,125327,6,7,9.4,Master,Medium,Engineer,Mumbai,IT,0
+31,71993,4,39,11.4,High School,Low,Manager,Bangalore,Finance,0
+49,139149,11,22,9.7,Bachelor,Medium,Manager,Mumbai,HR,0
+54,36560,4,11,10.7,PhD,High,Consultant,Mumbai,Finance,0
+49,56507,13,37,6.1,Bachelor,High,Manager,Bangalore,Sales,0
+54,134651,20,32,10.9,Master,High,Manager,Chennai,Sales,1
+58,107762,6,8,8.8,High School,Low,Analyst,Hyderabad,Sales,0
+36,35424,9,38,7.0,Bachelor,Medium,Manager,Chennai,Finance,0
+33,62928,11,38,5.9,Master,Low,Engineer,Chennai,Finance,0
+43,118207,7,37,10.7,PhD,Low,Manager,Chennai,HR,0
+30,129826,2,24,8.1,PhD,Medium,Consultant,Bangalore,HR,0
+44,49875,11,37,11.5,PhD,Medium,Consultant,Mumbai,IT,0
+55,124011,25,15,6.3,Bachelor,Medium,Analyst,Bangalore,Sales,0
+38,137782,20,42,4.3,Bachelor,Medium,Engineer,Bangalore,Finance,0
+34,57866,2,20,6.5,Master,Low,Analyst,Chennai,IT,0
+44,140282,17,14,4.5,PhD,Low,Analyst,Chennai,Sales,0
+35,129094,8,39,7.9,High School,High,Analyst,Bangalore,Sales,1
+47,93213,25,11,11.9,PhD,Low,Engineer,Hyderabad,Finance,0
+55,87547,3,40,5.0,Bachelor,Low,Consultant,Chennai,Sales,0
+50,117481,12,29,5.8,Master,Medium,Engineer,Bangalore,Sales,0
+22,44815,15,4,10.3,Master,Low,Consultant,Mumbai,Finance,0
+33,27963,8,18,8.0,PhD,Low,Manager,Bangalore,HR,0
+52,104493,14,2,4.3,High School,High,Consultant,Bangalore,Sales,1
+45,55927,1,22,5.9,High School,High,Consultant,Chennai,Sales,0
+46,43303,24,50,7.3,Bachelor,High,Analyst,Mumbai,Sales,0
+50,131062,23,14,9.0,Master,High,Analyst,Hyderabad,HR,1
+23,99483,5,50,4.1,Master,High,Engineer,Bangalore,HR,1
+40,62379,19,40,5.7,PhD,Medium,Consultant,Bangalore,Finance,0
+33,29843,8,10,11.5,Master,High,Consultant,Mumbai,HR,0
+41,136500,17,19,6.6,Master,High,Engineer,Mumbai,Sales,1
+31,59566,7,28,6.4,High School,Low,Manager,Bangalore,Sales,0
+45,81582,19,30,6.3,Bachelor,Medium,Analyst,Bangalore,Sales,0
+50,33270,19,14,11.6,High School,Low,Engineer,Bangalore,HR,0
+57,133402,13,30,10.2,PhD,Low,Engineer,Hyderabad,Finance,0
+29,51156,8,21,10.2,PhD,Medium,Analyst,Hyderabad,IT,0
+42,32542,13,50,9.0,Master,High,Manager,Mumbai,IT,0
+33,149197,16,14,11.2,High School,High,Analyst,Chennai,HR,1
+23,31682,0,11,5.8,PhD,Medium,Engineer,Chennai,HR,0
+42,99031,24,41,11.4,Master,Medium,Consultant,Hyderabad,Finance,0
+29,88726,3,13,11.2,Bachelor,High,Analyst,Chennai,IT,1
+23,136739,18,31,4.0,Bachelor,Low,Manager,Chennai,Sales,0
+21,131852,23,35,10.8,PhD,High,Analyst,Hyderabad,IT,1
+30,112472,23,37,8.2,Master,Medium,Engineer,Hyderabad,Finance,0
+46,127188,11,37,6.9,High School,High,Engineer,Hyderabad,Finance,1
+30,144207,2,31,8.6,Master,High,Consultant,Chennai,Finance,1
+57,118791,5,1,5.0,Master,Medium,Engineer,Hyderabad,HR,0
+40,46245,4,20,5.9,Bachelor,Low,Engineer,Bangalore,Sales,0
+38,69756,4,19,9.2,Master,Low,Analyst,Chennai,IT,0
+31,40855,0,12,7.2,Master,Medium,Analyst,Hyderabad,HR,0
+60,69967,10,32,6.7,Master,High,Consultant,Bangalore,IT,0
+52,25990,12,10,6.2,High School,Low,Engineer,Bangalore,IT,0
+53,70292,23,28,9.8,Master,Low,Analyst,Chennai,Sales,0
+20,128396,19,6,8.1,PhD,Low,Consultant,Mumbai,IT,0
+23,110986,14,43,4.7,PhD,Medium,Manager,Hyderabad,Finance,0
+52,79803,1,7,7.9,PhD,High,Manager,Chennai,Finance,1
+51,45541,13,20,7.1,High School,Low,Consultant,Bangalore,Finance,0
+27,115091,3,23,6.7,Master,High,Manager,Hyderabad,Sales,1
+36,137759,6,16,4.0,Master,Low,Consultant,Bangalore,IT,0
+30,105344,21,50,10.7,High School,Low,Manager,Hyderabad,IT,0
+29,67412,21,4,11.0,Master,Low,Manager,Mumbai,Finance,0
+29,128198,23,17,8.8,Bachelor,Low,Analyst,Chennai,Finance,0
+27,131609,10,33,10.0,High School,Low,Analyst,Hyderabad,IT,0
+44,79188,9,13,5.2,High School,Medium,Consultant,Chennai,IT,0
+41,47904,5,13,6.7,High School,High,Consultant,Mumbai,Finance,0
+23,62317,2,2,4.3,High School,Low,Analyst,Chennai,IT,0
+60,67142,10,17,4.5,Master,Medium,Consultant,Hyderabad,Sales,0
+33,84599,3,36,6.3,Bachelor,Medium,Engineer,Mumbai,Sales,0
+31,129397,20,12,5.7,Master,High,Engineer,Hyderabad,Finance,1
+60,87296,6,6,7.8,Master,Low,Consultant,Bangalore,Finance,0
+52,62096,13,36,7.0,Master,Medium,Analyst,Mumbai,IT,0
+46,61780,16,6,6.7,High School,Low,Consultant,Bangalore,HR,0
+26,127174,21,20,8.6,PhD,High,Consultant,Mumbai,Sales,1
+57,118664,18,31,10.1,Bachelor,Low,Consultant,Bangalore,Sales,0
+38,92972,23,47,11.8,PhD,Low,Engineer,Mumbai,Finance,0
+47,128770,16,17,6.1,Bachelor,High,Consultant,Bangalore,Finance,1
+51,52521,9,6,7.5,Bachelor,Medium,Engineer,Bangalore,Sales,0
+32,39152,11,10,4.7,High School,High,Analyst,Hyderabad,IT,0
+25,32613,16,29,5.0,High School,Low,Engineer,Chennai,HR,0
+37,56319,19,4,11.4,High School,High,Consultant,Bangalore,Finance,0
+59,126957,15,18,9.0,Bachelor,High,Manager,Chennai,Sales,1
+38,58945,21,26,5.7,High School,High,Analyst,Chennai,Sales,0
+51,85499,5,39,6.7,High School,High,Consultant,Hyderabad,HR,1
+30,63502,10,31,5.8,PhD,Low,Consultant,Bangalore,Sales,0
+54,90407,10,14,9.0,Bachelor,High,Manager,Chennai,Finance,1
+37,139857,10,15,6.2,Bachelor,High,Engineer,Chennai,Finance,1
+52,90374,18,21,4.9,High School,High,Consultant,Mumbai,HR,1
+33,137238,16,12,10.6,Master,High,Consultant,Chennai,Sales,1
+56,112917,9,34,9.7,Bachelor,Low,Manager,Bangalore,IT,0
+28,130430,23,21,9.2,Bachelor,Low,Engineer,Chennai,Finance,0
+31,127970,12,50,7.1,Bachelor,Low,Manager,Mumbai,HR,0
+48,73606,15,8,5.2,Bachelor,Low,Manager,Hyderabad,IT,0
+42,115636,6,4,5.8,High School,Medium,Consultant,Chennai,IT,0
+37,75088,15,39,4.4,PhD,Medium,Manager,Bangalore,Sales,0
+52,147450,20,16,6.3,Bachelor,Medium,Consultant,Chennai,Sales,0
+29,90189,0,4,7.1,Bachelor,Low,Engineer,Bangalore,Sales,0
+52,142710,17,20,7.2,High School,Low,Manager,Hyderabad,HR,0
+49,136241,15,33,10.9,PhD,High,Engineer,Mumbai,HR,1
+29,36690,11,35,9.7,High School,High,Manager,Mumbai,HR,0
+49,91243,15,3,5.4,Master,Medium,Manager,Chennai,Finance,0
+39,47240,9,38,9.6,Bachelor,High,Manager,Mumbai,Finance,0
+50,41811,15,45,10.0,High School,Medium,Engineer,Chennai,Finance,0
+29,83929,10,29,8.1,Bachelor,High,Analyst,Hyderabad,Finance,1
+27,46680,3,30,6.2,High School,Low,Engineer,Bangalore,Sales,0
+27,107701,12,49,11.8,High School,High,Consultant,Chennai,Sales,1
+27,89954,21,39,11.6,Master,Low,Manager,Hyderabad,HR,0
+36,113441,10,43,6.1,Bachelor,High,Manager,Bangalore,Finance,1
+21,25609,12,6,7.2,Bachelor,High,Consultant,Mumbai,Sales,0
+26,105075,1,42,4.7,High School,High,Engineer,Bangalore,HR,1
+22,141712,0,38,8.7,PhD,Low,Consultant,Bangalore,Sales,0
+52,128296,11,48,10.1,High School,Medium,Engineer,Hyderabad,Finance,0
+43,28716,14,43,5.4,Bachelor,Low,Engineer,Mumbai,IT,0
+48,135344,23,35,5.6,Bachelor,Low,Consultant,Hyderabad,Sales,0
+52,133196,17,48,9.2,High School,Low,Consultant,Chennai,HR,0
+58,104382,13,29,9.5,Bachelor,Low,Consultant,Hyderabad,HR,0
+37,33912,12,1,6.8,Bachelor,High,Engineer,Bangalore,HR,0
+34,118259,3,29,10.4,PhD,High,Consultant,Mumbai,Finance,1
+49,108228,2,27,7.2,Master,High,Analyst,Chennai,Sales,1
+35,55446,19,12,7.6,Master,Low,Manager,Mumbai,HR,0
+44,98691,0,38,7.8,High School,Low,Manager,Bangalore,Finance,0
+43,79374,18,14,7.8,Bachelor,Low,Consultant,Hyderabad,IT,0
+36,80256,18,16,11.8,PhD,High,Manager,Mumbai,Sales,1
+21,67272,25,1,10.5,PhD,Low,Engineer,Mumbai,HR,0
+46,149941,3,16,5.1,Master,Medium,Manager,Hyderabad,Sales,0
+55,75148,24,37,5.7,Bachelor,Medium,Analyst,Hyderabad,Finance,0
+23,80515,10,34,6.6,Bachelor,Medium,Manager,Chennai,Sales,0
+54,60594,10,27,7.9,Bachelor,Low,Analyst,Mumbai,IT,0
+56,128032,6,29,8.8,Master,Medium,Consultant,Bangalore,IT,0
+31,82002,24,25,8.3,Master,High,Consultant,Bangalore,Finance,1
+54,104164,1,47,11.5,High School,High,Consultant,Bangalore,IT,1
+40,87361,1,6,11.2,High School,High,Analyst,Hyderabad,IT,1
+54,58173,13,34,4.7,Bachelor,Medium,Manager,Mumbai,HR,0
+42,81093,14,6,9.3,High School,Low,Engineer,Chennai,IT,0
+29,36730,20,1,8.9,Master,Medium,Engineer,Chennai,Sales,0
+41,82556,8,13,11.1,Bachelor,Low,Engineer,Chennai,HR,0
+54,99246,19,48,8.6,Master,Low,Consultant,Mumbai,Sales,0
+41,78832,24,25,8.0,Bachelor,Medium,Consultant,Hyderabad,Sales,0
+55,31590,19,46,8.3,Master,High,Manager,Hyderabad,Sales,0
+27,53234,8,26,9.4,Bachelor,Low,Manager,Mumbai,IT,0
+45,41413,12,38,5.6,Master,Medium,Analyst,Mumbai,Sales,0
+54,104580,0,38,9.3,High School,Low,Engineer,Chennai,Finance,0
+35,72394,18,41,9.6,Master,Medium,Manager,Bangalore,Finance,0
+42,125347,21,43,11.6,Master,Low,Analyst,Mumbai,Finance,0
+59,141729,25,37,5.4,High School,Medium,Consultant,Mumbai,Finance,0
+53,29400,19,17,10.1,Master,Low,Manager,Mumbai,Sales,0
+30,66842,16,23,5.5,High School,Medium,Consultant,Hyderabad,Sales,0
+59,81687,9,33,5.0,Master,Medium,Manager,Bangalore,HR,0
+25,111857,24,8,8.9,Bachelor,Medium,Analyst,Bangalore,IT,0
+22,33451,5,11,5.1,Master,High,Analyst,Hyderabad,Sales,0
+39,51587,14,39,4.5,Master,Medium,Manager,Bangalore,Sales,0
+27,52408,6,7,11.5,Master,Low,Engineer,Mumbai,Sales,0
+55,98737,10,15,8.9,Bachelor,High,Analyst,Bangalore,IT,1
+37,107249,9,47,8.4,High School,Low,Engineer,Chennai,Finance,0
+40,66015,11,49,10.2,PhD,Medium,Manager,Chennai,IT,0
+54,44256,5,23,9.6,High School,High,Engineer,Chennai,Finance,0
+40,143134,14,1,9.5,Bachelor,Low,Analyst,Hyderabad,Sales,0
+52,96996,9,50,11.3,PhD,Low,Engineer,Hyderabad,HR,0
+35,116618,8,38,11.0,Bachelor,Low,Consultant,Hyderabad,IT,0
+44,103966,25,29,9.7,Master,Medium,Engineer,Bangalore,Finance,0
+33,149411,11,8,10.0,High School,High,Analyst,Mumbai,Sales,1
+57,110047,9,35,8.5,High School,Low,Consultant,Chennai,HR,0
+57,70630,15,43,7.1,Master,High,Consultant,Hyderabad,Finance,1
+41,42621,23,28,10.3,High School,Low,Manager,Hyderabad,IT,0
+27,75214,10,24,4.6,Bachelor,Medium,Manager,Hyderabad,IT,0
+24,32430,18,41,9.5,Bachelor,Medium,Consultant,Mumbai,Finance,0
+56,45133,8,39,8.1,Master,Medium,Manager,Bangalore,Finance,0
+33,38845,20,49,8.7,Bachelor,Medium,Consultant,Hyderabad,Finance,0
+42,85356,7,17,5.2,Master,Low,Manager,Bangalore,HR,0
+49,67939,12,48,5.6,High School,High,Engineer,Chennai,IT,0
+22,80768,16,14,8.1,Master,Medium,Analyst,Bangalore,Sales,0
+31,67504,25,22,6.7,PhD,Medium,Consultant,Bangalore,IT,0
+54,55242,13,9,11.2,High School,Low,Manager,Mumbai,HR,0
+56,84124,7,37,8.2,Master,Low,Manager,Mumbai,Finance,0
+42,57878,21,34,8.7,High School,High,Analyst,Bangalore,Sales,0
+33,110021,15,15,9.3,PhD,Low,Analyst,Chennai,Finance,0
+24,106838,13,39,9.2,PhD,Medium,Consultant,Mumbai,IT,0
+25,69527,3,23,11.5,High School,High,Consultant,Chennai,HR,0
+28,105117,7,22,9.0,PhD,Low,Analyst,Mumbai,HR,0
+44,80198,0,2,8.7,Bachelor,High,Manager,Bangalore,Sales,1
+52,60328,10,23,8.1,High School,High,Consultant,Mumbai,IT,0
+49,66924,21,6,9.1,PhD,Low,Consultant,Bangalore,IT,0
+24,138885,16,17,11.1,PhD,High,Consultant,Mumbai,Finance,1
+40,84404,16,37,9.4,PhD,High,Manager,Mumbai,Finance,1
+55,86640,21,24,6.0,PhD,Low,Engineer,Chennai,HR,0
+28,103160,3,40,8.8,Bachelor,Medium,Manager,Hyderabad,Sales,0
+23,74043,17,12,7.2,PhD,Low,Consultant,Hyderabad,Finance,0
+56,74001,7,33,8.1,Bachelor,Medium,Analyst,Chennai,Finance,0
+54,88108,9,27,9.9,PhD,High,Manager,Chennai,HR,1
+31,73203,6,39,11.6,PhD,High,Consultant,Hyderabad,HR,1
+57,102344,2,8,7.8,PhD,Low,Consultant,Chennai,Sales,0
+44,46746,0,49,4.6,PhD,High,Engineer,Mumbai,Finance,0
+48,65568,21,50,4.2,Master,Medium,Manager,Chennai,HR,0
+21,71433,5,19,11.4,Master,High,Engineer,Hyderabad,Finance,1
+33,140605,0,27,7.2,Bachelor,Medium,Manager,Hyderabad,HR,0
+20,32308,0,32,9.3,Bachelor,Medium,Manager,Hyderabad,HR,0
+55,38614,18,17,8.4,Master,Medium,Analyst,Chennai,IT,0
+45,110771,12,19,9.9,Bachelor,Medium,Analyst,Hyderabad,IT,0
+26,139592,13,17,6.3,High School,Low,Engineer,Bangalore,Finance,0
+29,149737,5,18,8.4,Master,Low,Consultant,Bangalore,Finance,0
+26,66724,16,48,6.8,Master,Low,Manager,Hyderabad,IT,0
+40,95370,18,44,11.4,PhD,High,Engineer,Bangalore,IT,1
+26,119608,0,27,10.7,PhD,Low,Consultant,Mumbai,IT,0
+59,113574,14,15,7.6,Bachelor,Low,Consultant,Hyderabad,IT,0
+54,141989,17,20,8.4,High School,Medium,Engineer,Chennai,HR,0
+55,109762,23,19,6.8,PhD,High,Consultant,Mumbai,Sales,1
+36,95987,12,26,4.4,Bachelor,Low,Manager,Mumbai,Sales,0
+42,91815,14,7,5.4,High School,Medium,Consultant,Bangalore,Finance,0
+58,74248,7,38,9.7,Bachelor,Medium,Manager,Mumbai,Sales,0
+47,121789,18,30,7.2,Master,Low,Consultant,Chennai,Finance,0
+47,64726,22,24,9.9,Bachelor,Medium,Analyst,Chennai,Sales,0
+38,27915,5,18,10.0,PhD,Medium,Consultant,Hyderabad,Finance,0
+59,110524,6,40,10.0,Bachelor,Medium,Consultant,Bangalore,HR,0
+44,72553,25,5,9.9,Bachelor,Medium,Manager,Bangalore,HR,0
+43,68711,24,5,6.1,Master,Low,Engineer,Mumbai,Finance,0
+57,138252,3,44,6.2,High School,Low,Manager,Hyderabad,Finance,0
+22,114840,6,42,10.6,PhD,Low,Manager,Chennai,IT,0
+27,51552,16,14,4.3,PhD,Medium,Consultant,Mumbai,HR,0
+50,69525,14,22,9.5,High School,High,Analyst,Mumbai,Finance,0
+23,108371,10,39,8.6,PhD,Low,Manager,Mumbai,IT,0
+43,44640,17,14,4.6,PhD,Medium,Engineer,Hyderabad,HR,0
+55,127899,4,37,7.9,Bachelor,High,Consultant,Chennai,IT,1
+46,59269,3,44,6.2,Bachelor,Medium,Engineer,Bangalore,HR,0
+41,136150,16,47,8.9,Master,Low,Manager,Mumbai,HR,0
+31,141708,3,33,8.6,Master,Low,Analyst,Mumbai,HR,0
+24,115491,17,15,7.7,Bachelor,Low,Engineer,Chennai,Finance,0
+20,46414,10,3,7.8,Master,Low,Consultant,Mumbai,IT,0
+52,80783,19,50,7.8,PhD,Low,Engineer,Chennai,IT,0
+20,120639,19,2,8.1,High School,High,Manager,Mumbai,IT,1
+54,83187,10,25,11.1,High School,Low,Consultant,Bangalore,HR,0
+56,62336,16,5,5.4,Master,Low,Manager,Mumbai,Finance,0
+24,147722,18,5,10.4,Bachelor,Medium,Manager,Hyderabad,Finance,0
+54,65055,24,34,8.4,Bachelor,High,Manager,Mumbai,Sales,0
+21,30456,3,2,8.1,PhD,High,Analyst,Mumbai,Finance,0
+49,34490,16,20,10.0,Master,High,Engineer,Hyderabad,IT,0
+54,126578,24,19,6.6,High School,Medium,Analyst,Mumbai,HR,0
+49,81428,18,6,8.0,Bachelor,High,Consultant,Chennai,IT,1
+60,115191,13,7,10.5,PhD,Medium,Engineer,Hyderabad,IT,0
+41,122930,9,20,10.3,Master,Medium,Engineer,Mumbai,Sales,0
+29,113580,4,15,6.3,Master,Medium,Consultant,Chennai,Finance,0
+36,81675,20,22,10.5,Master,Low,Consultant,Bangalore,IT,0
+46,47912,19,5,5.1,Bachelor,Low,Engineer,Bangalore,IT,0
+36,97140,15,24,11.8,Master,Low,Consultant,Hyderabad,Finance,0
+55,146406,1,46,5.3,PhD,Medium,Consultant,Mumbai,HR,0
+42,102967,25,10,7.9,Master,High,Analyst,Hyderabad,Sales,1
+34,119153,13,9,9.0,High School,Low,Engineer,Chennai,Sales,0
+45,120157,18,48,11.9,Bachelor,Medium,Consultant,Mumbai,IT,0
+24,148912,6,43,9.5,PhD,High,Analyst,Chennai,Sales,1
+59,98509,10,47,5.4,PhD,Low,Engineer,Bangalore,IT,0
+51,36013,13,23,7.9,PhD,Low,Consultant,Hyderabad,Sales,0
+28,83906,11,21,11.5,PhD,High,Consultant,Bangalore,HR,1
+23,32397,23,5,4.6,High School,Low,Manager,Hyderabad,Sales,0
+57,26284,4,32,8.9,High School,Low,Engineer,Chennai,Finance,0
+23,112494,19,42,9.1,Bachelor,High,Analyst,Hyderabad,HR,1
+42,45123,9,46,6.4,PhD,High,Analyst,Bangalore,Finance,0
+23,121044,8,34,9.1,Master,Medium,Consultant,Chennai,Sales,0
+22,45583,5,41,5.2,PhD,Low,Engineer,Hyderabad,HR,0
+42,55718,6,5,4.9,PhD,Medium,Engineer,Hyderabad,Sales,0
+30,68281,23,22,7.4,Master,Low,Consultant,Mumbai,Sales,0
+36,96537,16,35,9.0,Master,Low,Consultant,Chennai,HR,0
+54,107960,6,23,10.6,High School,Medium,Manager,Hyderabad,Sales,0
+27,73964,20,29,5.1,High School,High,Engineer,Bangalore,HR,1
+48,52134,18,41,5.5,Bachelor,High,Manager,Mumbai,Finance,0
+27,120567,4,15,4.7,High School,High,Consultant,Bangalore,Finance,1
+35,42809,3,18,10.0,Master,Low,Manager,Hyderabad,IT,0
+42,98073,19,29,5.0,PhD,High,Consultant,Hyderabad,IT,1
+60,101706,17,38,11.4,Bachelor,High,Engineer,Bangalore,Finance,1
+37,140610,17,12,10.7,Master,High,Consultant,Bangalore,IT,1
+57,117473,10,36,11.8,Bachelor,Low,Engineer,Hyderabad,HR,0
+40,111651,7,22,11.9,High School,Low,Analyst,Bangalore,HR,0
+43,74240,6,23,9.2,PhD,Low,Analyst,Chennai,Finance,0
+60,63375,16,45,9.6,Master,Low,Engineer,Bangalore,Finance,0
+38,115474,7,18,4.4,Bachelor,Medium,Analyst,Hyderabad,IT,0
+43,120070,20,20,9.7,High School,High,Engineer,Bangalore,HR,1
+29,120221,24,27,4.6,Bachelor,Low,Analyst,Hyderabad,HR,0
+57,29900,17,47,8.8,Master,Low,Consultant,Chennai,Sales,0
+34,138656,15,11,10.3,High School,Low,Analyst,Mumbai,HR,0
+28,88701,20,37,7.5,High School,Medium,Analyst,Mumbai,Sales,0
+32,95456,5,48,7.4,Master,Low,Engineer,Hyderabad,IT,0
+41,133427,21,21,6.6,Master,High,Analyst,Chennai,Finance,1
+42,127822,22,7,8.2,PhD,High,Engineer,Bangalore,Finance,1
+21,32721,11,12,7.0,High School,Medium,Manager,Mumbai,IT,0
+32,102652,13,39,9.5,High School,High,Engineer,Hyderabad,HR,1
+21,43107,5,38,9.5,Bachelor,Low,Engineer,Mumbai,Sales,0
+49,94225,6,44,9.8,Master,Medium,Analyst,Mumbai,Finance,0
+20,80819,0,27,4.0,High School,Medium,Analyst,Chennai,Finance,0
+30,98621,4,14,6.3,Master,High,Manager,Bangalore,IT,1
+57,86996,4,23,6.4,Bachelor,High,Manager,Bangalore,Sales,1
+47,123640,24,31,9.1,High School,Medium,Manager,Mumbai,Sales,0
+43,139312,24,1,10.8,PhD,High,Consultant,Hyderabad,HR,1
+51,46808,21,11,10.0,Master,High,Analyst,Hyderabad,Finance,0
+35,94702,15,25,8.0,Bachelor,High,Analyst,Chennai,IT,1
+49,146979,23,48,10.1,Master,Low,Analyst,Mumbai,HR,0
+47,125146,7,19,10.1,Bachelor,Low,Manager,Hyderabad,HR,0
+35,88295,16,42,7.8,Bachelor,Medium,Engineer,Chennai,HR,0
+50,42403,2,16,8.7,PhD,Low,Consultant,Chennai,Finance,0
+42,87474,17,1,4.7,High School,Medium,Consultant,Bangalore,Sales,0
+50,105358,18,27,9.2,PhD,Low,Consultant,Bangalore,Finance,0
+38,96986,12,48,5.1,High School,Low,Analyst,Mumbai,IT,0
+25,100584,23,19,11.2,Bachelor,Medium,Consultant,Mumbai,Sales,0
+25,98360,1,38,8.9,High School,Low,Consultant,Hyderabad,IT,0
+41,127114,5,2,11.2,PhD,High,Analyst,Bangalore,IT,1
+38,142196,24,40,6.5,High School,High,Manager,Hyderabad,Sales,1
+49,95875,16,29,10.6,PhD,Medium,Manager,Mumbai,HR,0
+33,36244,4,43,9.7,Master,Medium,Engineer,Chennai,Finance,0
+60,109622,5,19,8.0,High School,High,Consultant,Hyderabad,Sales,1
+35,60972,18,25,7.6,Bachelor,Low,Manager,Hyderabad,Sales,0
+49,86642,4,21,10.2,Bachelor,Low,Analyst,Chennai,Sales,0
+57,112331,12,47,8.9,PhD,Low,Consultant,Mumbai,Finance,0
+48,119615,17,7,9.9,PhD,High,Engineer,Bangalore,HR,1
+41,106114,5,14,8.3,High School,Low,Engineer,Bangalore,Sales,0
+25,29763,16,4,4.8,Bachelor,High,Engineer,Chennai,IT,0
+27,53933,13,2,5.5,High School,High,Consultant,Chennai,HR,0
+23,134199,10,12,11.2,Master,Low,Engineer,Bangalore,Finance,0
+38,99668,25,39,6.4,High School,Medium,Manager,Mumbai,Finance,0
+27,84481,22,16,5.6,PhD,High,Consultant,Chennai,IT,1
+60,102971,21,11,11.3,Master,High,Manager,Mumbai,Sales,1
+50,136889,3,2,6.7,Bachelor,Medium,Consultant,Bangalore,HR,0
+58,55664,13,46,10.5,PhD,High,Manager,Mumbai,IT,0
+53,69950,18,25,9.8,Master,High,Analyst,Hyderabad,Finance,0
+30,46796,2,10,4.5,Master,Low,Consultant,Hyderabad,IT,0
+49,73960,7,13,4.3,Bachelor,Medium,Analyst,Bangalore,Sales,0
+44,133153,25,25,10.9,Bachelor,High,Manager,Mumbai,IT,1
+46,140690,5,20,10.4,Master,Low,Analyst,Chennai,IT,0
+21,74099,19,27,6.5,High School,Low,Engineer,Bangalore,IT,0
+37,118690,14,15,5.4,Bachelor,Medium,Consultant,Chennai,Finance,0
+38,38570,0,38,4.2,High School,Low,Engineer,Chennai,IT,0
+51,67870,19,49,8.7,Bachelor,Medium,Engineer,Hyderabad,IT,0
+51,25089,14,32,10.2,Master,Medium,Analyst,Hyderabad,IT,0
+59,39522,7,34,12.0,PhD,High,Engineer,Hyderabad,HR,0
+31,41900,22,38,11.8,High School,High,Analyst,Bangalore,Sales,0
+24,121629,7,27,9.4,Bachelor,Low,Consultant,Mumbai,Finance,0
+29,90149,24,42,8.9,PhD,Medium,Consultant,Bangalore,Sales,0
+31,112260,13,41,4.1,High School,Medium,Engineer,Mumbai,Sales,0
+32,57841,0,8,7.7,PhD,High,Manager,Mumbai,HR,0
+31,67523,19,5,4.7,Master,High,Manager,Chennai,Finance,0
+44,93707,6,19,10.1,PhD,Medium,Consultant,Bangalore,Finance,0
+45,53569,4,44,7.2,PhD,Medium,Engineer,Chennai,Sales,0
+51,136743,23,5,7.8,High School,High,Analyst,Hyderabad,IT,1
+41,103303,23,38,9.1,High School,Low,Engineer,Hyderabad,HR,0
+38,64199,9,9,10.9,Master,Low,Manager,Bangalore,Finance,0
+47,44486,13,19,4.6,Bachelor,Low,Consultant,Mumbai,Finance,0
+55,77570,22,8,8.6,Bachelor,Low,Manager,Chennai,Finance,0
+21,144565,11,50,8.7,Master,Low,Analyst,Hyderabad,Finance,0
+51,73548,3,34,9.5,Bachelor,Medium,Analyst,Chennai,Sales,0
+22,42691,12,32,9.8,PhD,High,Analyst,Mumbai,IT,0
+34,140859,10,49,9.9,Master,High,Manager,Chennai,IT,1
+41,75612,16,10,9.2,Bachelor,Low,Consultant,Hyderabad,Finance,0
+40,51188,15,38,6.7,Bachelor,Low,Consultant,Chennai,Finance,0
+52,55651,19,2,7.6,High School,Low,Consultant,Mumbai,HR,0
+28,145169,4,19,10.3,PhD,Low,Manager,Mumbai,HR,0
+39,96459,3,13,7.0,Master,Low,Manager,Hyderabad,HR,0
+22,51867,9,35,4.5,PhD,Medium,Manager,Bangalore,Finance,0
+23,95921,20,35,9.5,PhD,Medium,Analyst,Hyderabad,HR,0
+31,111734,9,39,10.7,PhD,Medium,Analyst,Bangalore,HR,0
+48,136619,9,33,10.2,Master,Low,Consultant,Hyderabad,IT,0
+36,78698,3,18,5.4,High School,High,Engineer,Bangalore,HR,1
+51,124288,3,33,5.8,High School,High,Consultant,Chennai,Finance,1
+53,98020,17,9,10.3,Master,Medium,Manager,Bangalore,Finance,0
+50,104680,1,24,10.9,PhD,Medium,Manager,Mumbai,HR,0
+56,25928,9,23,8.6,Master,High,Engineer,Bangalore,Sales,0
+51,26934,13,1,10.3,Master,High,Consultant,Bangalore,Finance,0
+29,39978,0,28,10.8,PhD,Medium,Manager,Bangalore,IT,0
+20,42284,21,37,10.7,High School,High,Consultant,Mumbai,Sales,0
+30,61964,1,8,9.1,High School,High,Analyst,Bangalore,Finance,0
+24,56989,6,34,5.8,High School,Low,Analyst,Hyderabad,HR,0
+43,25888,6,39,8.9,Master,Low,Analyst,Chennai,HR,0
+36,130417,14,17,4.4,High School,Low,Engineer,Mumbai,IT,0
+43,33752,25,38,10.1,PhD,Low,Analyst,Bangalore,HR,0
+20,38548,17,4,9.3,PhD,Medium,Engineer,Bangalore,Finance,0
+52,62832,16,16,9.9,High School,Medium,Consultant,Mumbai,Finance,0
+50,106441,10,10,9.6,Bachelor,Low,Consultant,Bangalore,IT,0
+47,70779,13,1,4.0,PhD,Low,Consultant,Hyderabad,Finance,0
+49,78009,24,39,10.7,High School,Medium,Analyst,Chennai,IT,0
+45,107491,4,19,9.9,High School,High,Analyst,Bangalore,Finance,1
+37,64483,12,32,4.6,PhD,Low,Engineer,Chennai,Finance,0
+34,63964,13,16,10.8,Master,Low,Engineer,Chennai,IT,0
+24,131395,18,19,5.7,Bachelor,High,Analyst,Chennai,Finance,1
+37,121405,17,20,10.5,PhD,Low,Manager,Hyderabad,IT,0
+24,117745,17,46,5.3,Master,High,Engineer,Mumbai,Finance,1
+21,32406,9,1,4.4,PhD,Low,Analyst,Hyderabad,Sales,0
+57,119334,24,30,5.3,PhD,Medium,Consultant,Hyderabad,Finance,0
+36,142071,16,15,6.2,Bachelor,Medium,Manager,Hyderabad,HR,0
+49,94419,6,36,7.5,High School,Medium,Manager,Bangalore,Sales,0
+48,35818,14,19,11.0,Bachelor,Low,Engineer,Chennai,HR,0
+35,118579,25,19,5.8,High School,Medium,Analyst,Hyderabad,HR,0
+38,75497,0,13,10.3,High School,Medium,Manager,Chennai,Sales,0
+37,120873,17,48,4.6,Bachelor,Medium,Analyst,Mumbai,Finance,0
+25,70802,3,15,4.5,PhD,Low,Consultant,Bangalore,Sales,0
+35,39173,13,14,10.1,PhD,High,Engineer,Hyderabad,HR,0
+54,75322,12,26,10.1,Bachelor,Low,Consultant,Mumbai,Finance,0
+30,142385,11,35,8.9,Master,Low,Engineer,Bangalore,IT,0
+36,61733,10,49,8.8,Master,High,Engineer,Mumbai,HR,0
+38,82670,13,23,5.5,Bachelor,Low,Consultant,Hyderabad,IT,0
+43,70230,23,39,9.6,High School,Medium,Engineer,Chennai,HR,0
+41,124459,17,21,6.2,Master,High,Consultant,Chennai,Finance,1
+24,136004,19,35,4.4,Master,High,Consultant,Hyderabad,Sales,1
+33,41849,8,37,10.4,High School,Medium,Manager,Bangalore,Sales,0
+21,37142,13,25,6.9,High School,Low,Engineer,Bangalore,HR,0
+50,115892,12,34,11.3,Bachelor,Low,Consultant,Mumbai,Sales,0
+52,94277,7,18,6.5,Bachelor,Low,Engineer,Hyderabad,Finance,0
+21,142839,9,20,8.4,Master,Low,Analyst,Bangalore,HR,0
+52,137995,19,17,5.0,High School,Medium,Engineer,Bangalore,IT,0
+57,51751,9,19,9.9,High School,Low,Manager,Mumbai,IT,0
+56,76814,22,2,11.5,PhD,Medium,Consultant,Mumbai,IT,0
+48,28112,9,9,11.8,Master,Low,Engineer,Bangalore,HR,0
+21,97447,11,2,5.7,Bachelor,Low,Consultant,Mumbai,Sales,0
+20,38096,25,7,8.0,Master,Low,Manager,Hyderabad,Sales,0
+37,95645,9,8,8.1,Master,High,Analyst,Mumbai,Finance,1
+52,139717,3,27,8.4,Master,Medium,Analyst,Chennai,HR,0
+21,76614,6,14,7.6,PhD,Medium,Manager,Hyderabad,IT,0
+47,47940,23,27,6.3,High School,Low,Engineer,Mumbai,HR,0
+26,46389,6,7,5.0,Master,Medium,Analyst,Mumbai,HR,0
+46,86035,4,3,4.9,Bachelor,Low,Manager,Chennai,HR,0
+33,123290,9,9,4.6,Bachelor,High,Consultant,Hyderabad,IT,1
+40,109253,2,28,11.6,Bachelor,High,Consultant,Hyderabad,IT,1
+60,132374,6,42,9.0,Bachelor,High,Analyst,Mumbai,IT,1
+49,45815,6,17,8.8,High School,Medium,Engineer,Hyderabad,Finance,0
+58,119256,11,24,9.6,PhD,Medium,Manager,Hyderabad,IT,0
+60,27452,14,35,6.5,Master,Low,Engineer,Mumbai,Sales,0
+39,74901,14,20,4.3,Bachelor,Low,Manager,Hyderabad,Sales,0
+26,60424,18,16,11.5,Master,High,Manager,Mumbai,Sales,0
+47,146800,12,39,7.1,PhD,Medium,Consultant,Chennai,IT,0
+21,34404,3,42,8.0,Bachelor,Low,Engineer,Mumbai,HR,0
+57,61660,16,5,4.2,Bachelor,High,Manager,Bangalore,Finance,0
+54,37810,11,36,7.6,High School,High,Consultant,Bangalore,HR,0
+33,133386,18,22,10.1,Bachelor,High,Manager,Mumbai,Sales,1
+34,144894,16,12,9.1,Bachelor,Low,Analyst,Hyderabad,HR,0
+36,26139,21,4,7.3,High School,Medium,Manager,Mumbai,IT,0
+25,149316,0,10,4.1,PhD,Low,Consultant,Hyderabad,IT,0
+50,121187,17,15,9.6,PhD,Medium,Engineer,Bangalore,Sales,0
+58,44415,1,3,6.7,PhD,Medium,Analyst,Hyderabad,Sales,0
+57,75370,15,48,11.6,Bachelor,Low,Engineer,Bangalore,Finance,0
+33,115136,17,36,10.3,PhD,Low,Engineer,Mumbai,HR,0
+50,113058,23,39,4.2,PhD,Low,Engineer,Chennai,Finance,0
+23,69216,21,30,6.6,Master,Low,Analyst,Hyderabad,Finance,0
+36,118181,0,2,11.0,PhD,Low,Analyst,Bangalore,HR,0
+39,42285,15,13,9.1,Master,Low,Consultant,Bangalore,HR,0
+25,74093,22,9,11.5,High School,High,Analyst,Bangalore,IT,1
+28,111970,8,30,5.3,PhD,Medium,Consultant,Chennai,IT,0
+29,53047,5,30,10.9,Bachelor,High,Analyst,Chennai,HR,0
+31,94090,3,49,6.7,High School,Low,Analyst,Bangalore,IT,0
+27,128343,15,41,4.2,PhD,Medium,Analyst,Chennai,Sales,0
+57,74143,11,10,11.5,Bachelor,High,Engineer,Bangalore,Finance,1
+49,127250,24,35,11.3,PhD,High,Consultant,Mumbai,HR,1
+35,125796,18,18,10.7,PhD,Low,Consultant,Mumbai,Sales,0
+32,127139,12,47,9.6,Bachelor,Low,Engineer,Chennai,IT,0
+51,58776,5,11,6.0,PhD,Low,Manager,Chennai,IT,0
+33,148770,0,9,9.5,Master,High,Analyst,Bangalore,IT,1
+25,73480,15,49,9.3,Bachelor,High,Manager,Bangalore,Sales,1
+40,66731,23,26,5.7,Master,Medium,Engineer,Mumbai,HR,0
+49,116383,10,32,9.9,High School,High,Engineer,Mumbai,HR,1
+40,49339,19,38,8.0,PhD,High,Analyst,Bangalore,IT,0
+51,61847,3,19,4.7,PhD,Medium,Manager,Hyderabad,Finance,0
+38,30528,5,10,11.7,Bachelor,High,Engineer,Mumbai,IT,0
+21,45313,11,31,10.2,Bachelor,Low,Manager,Mumbai,Finance,0
+46,33910,24,12,6.5,Master,High,Consultant,Hyderabad,HR,0
+51,120191,1,4,7.5,High School,High,Manager,Mumbai,Sales,1
+34,26864,23,46,7.3,Bachelor,High,Manager,Chennai,IT,0
+39,146678,5,24,11.3,High School,Medium,Manager,Mumbai,HR,0
+46,90611,12,27,6.4,High School,High,Analyst,Mumbai,Sales,1
+54,146420,1,28,7.0,Master,High,Manager,Mumbai,IT,1
+55,110621,6,13,10.4,Master,High,Analyst,Mumbai,IT,1
+54,100444,5,18,8.6,Master,Low,Consultant,Chennai,Sales,0
+37,27746,20,43,8.2,Master,Low,Analyst,Mumbai,Finance,0
+52,132688,13,46,7.2,Bachelor,Low,Consultant,Hyderabad,IT,0
+48,107432,6,43,4.7,PhD,High,Consultant,Mumbai,HR,1
+43,74364,12,14,7.9,Master,Low,Analyst,Mumbai,Sales,0
+44,96544,11,4,10.0,High School,Low,Engineer,Mumbai,Sales,0
+30,54399,10,9,9.7,Bachelor,Low,Consultant,Mumbai,Finance,0
+50,89155,1,26,10.9,High School,High,Analyst,Bangalore,Finance,1
+28,141355,9,45,5.7,Bachelor,High,Analyst,Bangalore,HR,1
+32,107390,11,34,9.1,Master,High,Engineer,Mumbai,IT,1
+40,85862,1,45,5.6,Master,Low,Engineer,Chennai,HR,0
+59,53393,25,24,5.6,Master,Low,Engineer,Chennai,Finance,0
+22,49141,16,14,7.8,PhD,Medium,Consultant,Mumbai,IT,0
+22,117311,16,40,5.2,High School,Medium,Consultant,Bangalore,Finance,0
+35,145028,4,44,11.3,Bachelor,Medium,Consultant,Chennai,HR,0
+45,56263,12,45,10.6,Master,Low,Manager,Mumbai,IT,0
+53,27144,6,2,9.5,PhD,High,Consultant,Hyderabad,Sales,0
+59,135352,19,16,8.7,Master,Low,Analyst,Bangalore,HR,0
+34,79015,3,35,9.8,PhD,Medium,Manager,Mumbai,HR,0
+33,113869,15,6,11.4,PhD,Medium,Analyst,Hyderabad,IT,0
+34,89208,4,29,7.4,High School,Low,Engineer,Bangalore,Finance,0
+27,97827,12,28,6.2,High School,High,Analyst,Bangalore,Sales,1
+32,37367,7,4,4.0,Master,Medium,Consultant,Mumbai,IT,0
+54,105330,21,3,7.1,PhD,Medium,Manager,Bangalore,Sales,0
+52,55793,5,25,4.6,High School,Low,Consultant,Chennai,HR,0
+38,27821,13,50,5.0,PhD,High,Consultant,Hyderabad,HR,0
+60,28998,8,17,4.1,PhD,Low,Manager,Bangalore,Finance,0
+59,61554,14,28,8.8,PhD,High,Engineer,Mumbai,HR,0
+44,45994,7,7,11.5,PhD,Low,Consultant,Mumbai,IT,0
+48,141027,17,5,10.0,Bachelor,High,Consultant,Mumbai,IT,1
+52,130051,14,19,10.8,Master,High,Manager,Hyderabad,Sales,1
+35,71687,18,39,6.9,PhD,Low,Consultant,Mumbai,Sales,0
+28,142618,6,48,6.8,High School,Low,Analyst,Bangalore,Sales,0
+43,132492,16,30,7.4,Bachelor,Low,Manager,Mumbai,Sales,0
+45,70853,9,23,5.2,Master,Medium,Analyst,Bangalore,Finance,0
+20,132834,13,38,4.8,High School,Medium,Manager,Bangalore,Finance,0
+45,139119,6,12,10.7,High School,High,Engineer,Mumbai,Sales,1
+32,35319,25,29,10.8,Bachelor,Medium,Engineer,Bangalore,Finance,0
+51,116418,14,10,10.2,PhD,High,Manager,Bangalore,HR,1
+29,26218,3,39,6.9,Bachelor,High,Manager,Chennai,IT,0
+52,134024,22,26,10.3,High School,Low,Engineer,Mumbai,Finance,0
+60,73313,21,41,9.0,Bachelor,Medium,Consultant,Hyderabad,Sales,0
+23,27064,9,18,8.2,Master,Low,Manager,Chennai,HR,0
+26,145382,23,42,11.8,PhD,Low,Manager,Hyderabad,HR,0
+27,101500,1,13,4.4,Bachelor,High,Manager,Chennai,Finance,1
+36,109391,19,34,7.8,Master,Low,Manager,Bangalore,IT,0
+29,113448,1,24,11.3,Bachelor,Low,Consultant,Mumbai,Finance,0
+36,34326,0,20,7.3,High School,Medium,Engineer,Mumbai,Finance,0
+>>>>>>> 5fa6589bdaef67ab49755bc25e4ba15561bfa15e

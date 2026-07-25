@@ -1,0 +1,69 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jul  6 16:24:58 2026
+House prediction app
+@author: rojarani
+"""
+
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+import statsmodels.api as sm 
+import numpy as np
+
+house_data = pd.read_csv('House_data.csv')
+
+house_data.head()
+house_data.isnull().sum()
+house_data = house_data.drop(['id','date'], axis = 1)
+
+house_data.head()
+
+x = house_data.iloc[:,1:].values
+y = house_data.iloc[:,0].values
+
+x_train,x_test,y_train,y_test = train_test_split(x,y,test_size=0.2,random_state=42)
+
+linear_regression = LinearRegression()
+
+linear_regression.fit(x_train,y_train)
+
+y_pred = linear_regression.predict(x_test)
+
+x_opt = x[:, [0, 1, 2, 3, 4, 5,6,7,8,9,10,11,12,13,14,15,16,17]]
+
+regressor_ols = sm.OLS(endog=y, exog=x_opt).fit()
+
+regressor_ols.summary()
+
+#Backward Elimination (do not do the  funciton part for backward elimination) 
+
+def backwardElimination(x, SL):
+    numVars = len(x[0])
+    temp = np.zeros((21613,19)).astype(int)
+    for i in range(0, numVars):
+        regressor_OLS = sm.OLS(y, x).fit()
+        maxVar = max(regressor_OLS.pvalues).astype(float)
+        adjR_before = regressor_OLS.rsquared_adj.astype(float)
+        if maxVar > SL:
+            for j in range(0, numVars - i):
+                if (regressor_OLS.pvalues[j].astype(float) == maxVar):
+                    temp[:,j] = x[:, j]
+                    x = np.delete(x, j, 1)
+                    tmp_regressor = sm.OLS(y, x).fit()
+                    adjR_after = tmp_regressor.rsquared_adj.astype(float)
+                    if (adjR_before >= adjR_after):
+                        x_rollback = np.hstack((x, temp[:,[0,j]]))
+                        x_rollback = np.delete(x_rollback, j, 1)
+                        print (regressor_OLS.summary())
+                        return x_rollback
+                    else:
+                        continue
+    regressor_OLS.summary()
+    return x
+ 
+SL = 0.05
+X_Modeled = backwardElimination(x_opt, SL)
+
+X_Modeled
