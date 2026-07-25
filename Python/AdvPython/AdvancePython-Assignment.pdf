@@ -1,0 +1,537 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "4e366c5c-8a45-48e4-97b6-3182716e7894",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "if\n",
+    "else\n",
+    "if else\n",
+    "nested if\n",
+    "if elif else"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "8fd02edd-44c7-4192-902e-5b514446871a",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Even number\n"
+     ]
+    }
+   ],
+   "source": [
+    "#1- check the number is even number or not \n",
+    "\n",
+    "x = 4\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "1bfd4725-4223-4298-9a25-08dc05402d0c",
+   "metadata": {},
+   "outputs": [
+    {
+     "ename": "IndentationError",
+     "evalue": "expected an indented block after 'if' statement on line 5 (823111264.py, line 6)",
+     "output_type": "error",
+     "traceback": [
+      "  \u001b[36mCell\u001b[39m\u001b[36m \u001b[39m\u001b[32mIn[2]\u001b[39m\u001b[32m, line 6\u001b[39m\n\u001b[31m    \u001b[39m\u001b[31mprint('Even number')\u001b[39m\n    ^\n\u001b[31mIndentationError\u001b[39m\u001b[31m:\u001b[39m expected an indented block after 'if' statement on line 5\n"
+     ]
+    }
+   ],
+   "source": [
+    "#1- check the number is even number or not \n",
+    "x = 4\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    "print('Even number')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "9c93193e-0e37-4284-8d34-3dc1e6fd4d9f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Even number\n"
+     ]
+    }
+   ],
+   "source": [
+    "#1- check the number is even number or not \n",
+    "x = 4\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "id": "ffc2883e-d02f-453c-95dd-ffa0999077d6",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Even number\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 4\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    " print('Even number')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "b9eeabc1-551e-4856-b98b-bdf41601f93b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "x = 5\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number') "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "6124c7d0-081e-4f08-924c-2f7c2242033f",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Odd Number\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 5\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number') \n",
+    "    \n",
+    "print('Odd Number')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "02d382bd-cc98-4fab-98d0-d6aa484263a6",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Even number\n",
+      "Odd Number\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 8\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number') \n",
+    "    \n",
+    "print('Odd Number')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "29a8d110-dbac-4121-9680-61f3d932abd8",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Odd number\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 9\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number') \n",
+    "\n",
+    "if r != 0 :\n",
+    "    print('Odd number')    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "89359c4c-c27c-42d0-9d04-3d00fd65c28d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Even number\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 8\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number') \n",
+    "\n",
+    "if r == 1 :\n",
+    "    print('Odd number')     "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 10,
+   "id": "ec5af244-4b94-4e55-a74c-064a44d86b9c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Even number\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 8\n",
+    "r = x % 2 \n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number') \n",
+    "\n",
+    "else:\n",
+    "    print('Odd number')    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 11,
+   "id": "691a0ef3-4466-4858-8e29-951726ecfced",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Odd Number\n"
+     ]
+    }
+   ],
+   "source": [
+    "# nested if \n",
+    "\n",
+    "x = 3\n",
+    "r = x % 2\n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number')\n",
+    "    \n",
+    "    if x>5:\n",
+    "        print('greater number')\n",
+    "  \n",
+    "else:\n",
+    "    print('Odd Number')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 12,
+   "id": "ce617a2e-a0df-4d11-bc24-c2356761f9f4",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Even number\n",
+      "lesser number\n"
+     ]
+    }
+   ],
+   "source": [
+    "# nested if \n",
+    "x = 4\n",
+    "r = x % 2\n",
+    "\n",
+    "if r == 0:\n",
+    "    print('Even number')\n",
+    "    \n",
+    "    if x>5:\n",
+    "        print('greater number')\n",
+    "    else:\n",
+    "        print('lesser number')\n",
+    "  \n",
+    "else:\n",
+    "    print('Odd Number')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "9f4c5279-1411-46f7-94d8-4f5fa1ec4078",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "one\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 1\n",
+    "\n",
+    "if x == 1:\n",
+    "    print('one')\n",
+    "if x == 2:\n",
+    "    print('Two')\n",
+    "if x == 3:\n",
+    "    print('Three')\n",
+    "if x == 4:\n",
+    "    print('four')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 14,
+   "id": "9fb27fd0-c8d8-4bdf-bc08-e8ef84add29b",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "x = 10\n",
+    "\n",
+    "if x == 1:\n",
+    "    print('one')\n",
+    "\n",
+    "elif x == 2:\n",
+    "    print('Two')\n",
+    "elif x == 3:\n",
+    "    print('Three')\n",
+    "elif x == 4:\n",
+    "    print('four')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "76c92d17-7cfe-4c23-a830-270f6a1c243c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "number not found\n"
+     ]
+    }
+   ],
+   "source": [
+    "x = 10\n",
+    "\n",
+    "if x == 1:\n",
+    "    print('one')\n",
+    "\n",
+    "elif x == 2:\n",
+    "    print('Two')\n",
+    "elif x == 3:\n",
+    "    print('Three')\n",
+    "elif x == 4:\n",
+    "    print('four')\n",
+    "\n",
+    "else:\n",
+    "    print('number not found')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6bf95c48-0df0-4fc4-ac6f-7fbd0680bdbb",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "loops"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "1a47165d-4a21-445e-ac3a-67a95c57cdc2",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "data science 1\n",
+      "data science 2\n",
+      "data science 3\n",
+      "data science 4\n",
+      "data science 5\n"
+     ]
+    }
+   ],
+   "source": [
+    "i = 1         # initializing\n",
+    "while i<=5:    # condition\n",
+    "    print('data science',i)\n",
+    "    i = i + 1  # increment"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 19,
+   "id": "80847855-709a-4e0b-8095-a29e33f89408",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "data science :  5\n",
+      "data science :  4\n",
+      "data science :  3\n",
+      "data science :  2\n",
+      "data science :  1\n"
+     ]
+    }
+   ],
+   "source": [
+    "i = 5         # initializing\n",
+    "while i>=1:    # condition\n",
+    "    print('data science : ', i)\n",
+    "    i = i - 1  # increment"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "26fc1dfb-2b68-43c2-858b-7b1374165d44",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "data science\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "\n",
+      "data science\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "\n",
+      "data science\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "\n",
+      "data science\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "\n",
+      "data science\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "technology\n",
+      "\n"
+     ]
+    }
+   ],
+   "source": [
+    "i = 1\n",
+    "\n",
+    "while i<=5:\n",
+    "    print('data science') # when we mention end then new line will not create\n",
+    "    j = 1\n",
+    "    while j<=4:\n",
+    "        print('technology')\n",
+    "        j = j + 1\n",
+    "        \n",
+    "    i = i + 1\n",
+    "    print()\n",
+    "    \n",
+    "    # the output which we got is very lengty but how to make them one line lets refer to below code"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "052dc2a1-1b1e-49d1-a2fe-90adf5883611",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
