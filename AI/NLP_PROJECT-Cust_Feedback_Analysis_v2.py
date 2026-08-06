@@ -29,14 +29,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix, roc_auc_score
 
 # 1. Load Dataset
-original_dataset = pd.read_csv(r"C:\Users\vinay agrawal\FSDS_PROJECT\data\Restaurant_Reviews.tsv", delimiter='\t', quoting=3)
-
-# 2. Duplicate the dataset (e.g., repeating it 3 times to get 3,000 rows)
-# We reset the index so the loop runs smoothly from 0 to 2999
-dataset = pd.concat([original_dataset] * 3, ignore_index=True)
-
-print(f"Original dataset size: {len(original_dataset)} rows")
-print(f"Duplicated dataset size: {len(dataset)} rows")
+dataset = pd.read_csv(r"C:\Users\vinay agrawal\FSDS_PROJECT\data\Restaurant_Reviews.tsv", delimiter='\t', quoting=3)
 
 # 2. Advanced Text Cleaning (Preserving Sentiment Nuance)
 corpus = []
