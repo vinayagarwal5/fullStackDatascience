@@ -4,3 +4,7 @@ nltk
 scikit-learn
 numpy
 scipy
+streamlit
+pandas
+gTTS
+mtranslate
