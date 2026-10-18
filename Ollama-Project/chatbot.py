@@ -4,9 +4,9 @@ from ollama import Client
 # Initialize the Ollama client
 client = Client(host="http://localhost:11434")
 
-st.set_page_config(page_title="Custom LLM Model by Roja", page_icon="🤖", layout="centered")
+st.set_page_config(page_title="Custom LLM Model by Vinay", page_icon="🤖", layout="centered")
 
-st.title("Chatbot using Custom LLM Model by Roja")
+st.title("Chatbot using Custom LLM Model by Vinay")
 
 # Input for the user query
 user_query = st.text_input("Enter your prompt:")
